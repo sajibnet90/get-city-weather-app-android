@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"আবহাওয়ার পূর্বাভাস"</string>
+    <string name="check_weather">আবহাওয়া পরীক্ষা করুন</string>
+    <string name="location">স্থান</string>
+    <string name="_0_c">0 C</string>
+    <string name="_0_m_s">0 m/s</string>
+    <string name="weather_condition">আবহাওয়ার অবস্থা</string>
+    <string name="feels_like">অনুভব করা</string>
+    <string name="enter_city">শহরের নাম</string>
+    <string name="change_city">শহর পরিবর্তন</string>
+
+</resources>

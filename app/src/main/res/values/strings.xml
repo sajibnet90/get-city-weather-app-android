@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APIConnectionWeather</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="location">Location</string>
+    <string name="_0_c">0 C</string>
+    <string name="_0_m_s">0 m/s</string>
+    <string name="weather_condition">weather Condition</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="enter_city">Enter City</string>
+    <string name="change_city">Change City</string>
+
+</resources>
